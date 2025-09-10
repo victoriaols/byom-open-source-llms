@@ -50,5 +50,3 @@ spec:
           env:
             - name: MODEL_NAME
               value: "{{inputs.parameters.modelName}}"
-            - name: HUGGING_FACE_HUB_TOKEN
-              value: "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"
